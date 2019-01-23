@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="GenderTextView">Gender</string>
+    <string name="MaleTextView">Male</string>
+    <string name="FemaleTextView">Female</string>
+    <string name="communityTextView"></string>
+    <string name="YesTextView">YES</string>
+    <string name="NoTextView">NO</string>
+    <string name="memberTextView">Are you from this community</string>
+    <string name="InfoTextView">Community Info</string>
+    <string name="IDEditText">Enter your ID</string>
+    <string name="LoginButton">LOGIN</string>
+</resources>
